@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "cypress",
+      "lastName": "lab",
+      "email": "cypress@gmail.com",
+      "password": "password147852"
+    },
+    "responseBody": {
+      "message": "User already exists"
+    },
+    "statusCode": 400
+  }
+]

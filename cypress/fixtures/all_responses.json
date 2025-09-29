@@ -1,0 +1,132 @@
+[
+  {
+    "run": 1,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss001@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 2,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss002@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 3,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss003@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 4,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss004@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 5,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss005@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 6,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss006@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 7,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss007@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 8,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss008@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 9,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss009@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  },
+  {
+    "run": 10,
+    "request": {
+      "firstName": "Boss",
+      "lastName": "Bot",
+      "email": "boss010@gmail.com",
+      "password": "password1234"
+    },
+    "status": 400,
+    "response": {
+      "message": "User already exists"
+    }
+  }
+]

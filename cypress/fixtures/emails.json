@@ -1,0 +1,12 @@
+[
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss001@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss002@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss003@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss004@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss005@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss006@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss007@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss008@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss009@gmail.com", "password": "password1234" },
+  { "firstName": "Boss", "lastName": "Bot", "email": "boss010@gmail.com", "password": "password1234" }
+]
